@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Mustafa Mervan Yaylacı</h1>
+<h1 align="center">Hi 👋, I'm  Mervan Yaylacı</h1>
 
 ###
 
